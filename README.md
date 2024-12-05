@@ -36,3 +36,6 @@ python mods.py
 ```
 
 - The outputs will be stored in *submission.csv*
+
+
+*Note: The data folder is not added in gitignore for replication purposes*
