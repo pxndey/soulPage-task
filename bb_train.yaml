@@ -1,0 +1,4 @@
+train: D:\dev\soulPage-task\data\detection
+val: D:\dev\soulPage-task\data\detection
+nc: 1 # Number of classes
+names: [0] # Class names
